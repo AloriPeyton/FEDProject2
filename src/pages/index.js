@@ -8,10 +8,10 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Alori Peyton</p>
-    <p>I am trying to build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <h1>Hi people,</h1>
+    <p>My name is Alori Peyton</p>
+    <p>I have experience in application development and testing; which includes experience in Java Programming, JavaScript development, Salesforce data migration, environment testing, support and troubleshooting.</p>
+    <div style={{align:center maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     <Link to="/page-2/">Go to page 2</Link>
