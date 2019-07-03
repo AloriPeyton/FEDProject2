@@ -18,7 +18,7 @@ const Image = () => {
     query {
       placeholderImage: file(relativePath: { eq:"testImage2.png"}) {
         childImageSharp {
-          fluid(maxWidth: 100%) {
+          fluid(maxWidth: '100%') {
             ...GatsbyImageSharpFluid
           }
         }
