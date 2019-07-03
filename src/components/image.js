@@ -12,12 +12,18 @@ import Img from "gatsby-image"
  * - `gatsby-image`: https://gatsby.dev/gatsby-image
  * - `useStaticQuery`: https://www.gatsbyjs.org/docs/use-static-query/
  */
+
+const dimensions = Dimensions.get('window');
+const imageHeight = Math.round(dimensions.width * 9 / 16);
+const imageWidth = dimensions.width;
+
+
 const Image = () => {
   const data = useStaticQuery(graphql`
     query {
       placeholderImage: file(relativePath: { eq:"testImage2.png"}) {
         childImageSharp {
-          fluid(width:100%) {
+          fluid(width:imageWidth) {
             ...GatsbyImageSharpFluid
           }
         }
