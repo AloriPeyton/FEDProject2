@@ -16,15 +16,18 @@ const SecondPage = () => (
     </ul>
    <h2>Your Learning Courses</h2>
     <ul>
-      <li>Selenium and Cucumber Automation Test TOol Training for Technical Professionals</li> 
+      <li>Selenium and Cucumber Automation Test Tool Training for Technical Professionals</li> 
       <li>Combinatorial Test Design (CTD)</li>
       <li>Software Testing Foundations: Test Planning and Management</li>
     </ul>
-    <h2>Your Learning Courses</h2>
+    <h2>Badges Earned</h2>
     <ul>
-      <li>Selenium and Cucumber Automation Test TOol Training for Technical Professionals</li> 
-      <li>Combinatorial Test Design (CTD)</li>
-      <li>Software Testing Foundations: Test Planning and Management</li>
+      <li>IBM Agile Explorer</li> 
+      <li>IBM Automation Practitioner</li>
+      <li>Data Science Foundations - Level 1</li>
+      <li>IGNITE Membership</li>
+      <li>IBM Cloud Fundamentals</li>
+      <li>IBM Blockchain Essentials</li>
     </ul>
   
     <p></p>
