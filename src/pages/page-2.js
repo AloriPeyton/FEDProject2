@@ -21,26 +21,14 @@ const SecondPage = () => (
       <li>Software Testing Foundations: Test Planning and Management</li>
     </ul>
     <h2>Badges Earned</h2>
-    <table>
-      <tr>
-      <td>IBM Agile Explorer<img src={require('../images/AA-Badge-explorer-352.png')}height="200" width="200"/></td> 
-      </tr> 
-      <tr>                                
-      <td>IBM Automation Practitioner<img src={require('../images/Automation+Practitioner.png')}height="200" width="200"</td>
-      </tr>
-      <tr>                                 
-      <td>Data Science Foundations - Level 1<img src={require('../images/Data+Sci+Found+Level+1+-+CC+-+2019.png')}height="200" width="200"</td>
-      </tr>
-      <tr>
-      <td>IGNITE Membership<img src={require('../images/IBM+IGNITE+Membership_281_29.png')}height="200" width="200"</td>
-      </tr>  
-      <tr>                                
-      <td>IBM Cloud Fundamentals<img src={require('../images/IBM+Cloud+Essentials+-+Knowledge+Badge.png')}height="200" width="200"</td>
-      </tr>      
-      <tr>
-      <td>IBM Blockchain Essentials<img src={require('../images/Blockchain+Essentials.png')}height="200" width="200"</td>
-      </tr>
-    </table>
+    <ul>
+      <li>IBM Agile Explorer<img src={require('../images/AA-Badge-explorer-352.png')}height="200" width="200"/></li>                       
+      <li>IBM Automation Practitioner<img src={require('../images/Automation+Practitioner.png')}height="200" width="200"</li>                           
+      <li>Data Science Foundations - Level 1<img src={require('../images/Data+Sci+Found+Level+1+-+CC+-+2019.png')}height="200" width="200"</li>
+      <li>IGNITE Membership<img src={require('../images/IBM+IGNITE+Membership_281_29.png')}height="200" width="200"</li>              
+      <li>IBM Cloud Fundamentals<img src={require('../images/IBM+Cloud+Essentials+-+Knowledge+Badge.png')}height="200" width="200"</li>     
+      <li>IBM Blockchain Essentials<img src={require('../images/Blockchain+Essentials.png')}height="200" width="200"</li>      
+    </ul>
   
     <p></p>
     <Link to="/">Go back to the homepage</Link>
