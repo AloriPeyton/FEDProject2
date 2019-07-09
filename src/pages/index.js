@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people,</h1>
+    <h1>Hello,</h1>
     <p>My name is Alori Peyton</p>
-    <p>I have experience in application development and testing which includes experience with Java Programming JavaScript development Salesforce data migration environment testing support and troubleshooting.</p>
+    <p>I am a Jr. Test Analyst with experience in application development and testing which includes experience with Java Programming JavaScript development Salesforce data migration environment testing support and troubleshooting.</p>
     <div style={{width: `100%`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
