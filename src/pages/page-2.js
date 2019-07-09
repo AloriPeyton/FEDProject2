@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import badge1 from "../Images/AA-Badge-explorer-352.png"
 
 const SecondPage = () => (
   <Layout>
@@ -22,7 +23,7 @@ const SecondPage = () => (
     </ul>
     <h2>Badges Earned</h2>
     <ul>
-      <li>IBM Agile Explorer<img src="./AA-Badge-explorer-352.png"/></li> 
+      <li>IBM Agile Explorer<img src={badge1}/></li> 
       <li>IBM Automation Practitioner</li>
       <li>Data Science Foundations - Level 1</li>
       <li>IGNITE Membership</li>
