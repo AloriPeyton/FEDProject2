@@ -22,7 +22,7 @@ const SecondPage = () => (
     </ul>
     <h2>Badges Earned</h2>
     <ul>
-      <li>IBM Agile Explorer</li> 
+      <li>IBM Agile Explorer<img src="/src/images/AA-Badge-explorer-352.png"/></li> 
       <li>IBM Automation Practitioner</li>
       <li>Data Science Foundations - Level 1</li>
       <li>IGNITE Membership</li>
