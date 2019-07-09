@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import badge1 from "../Images/AA-Badge-explorer-352.png"
+const badge1 = require('../Images/AA-Badge-explorer-352.png')
 
 const SecondPage = () => (
   <Layout>
