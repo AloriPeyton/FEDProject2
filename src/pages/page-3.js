@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const ThirdPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Page Three" />
     <h1>Page 3 Placeholder</h1>
     
     </div>
