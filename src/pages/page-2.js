@@ -26,19 +26,19 @@ const SecondPage = () => (
       <td>IBM Agile Explorer<img src={require('../images/AA-Badge-explorer-352.png')}height="100" width="100" align="right"/></td> 
       </tr>
       <tr>                                
-      <td>IBM Automation Practitioner<img src={require('../images/Automation+Practitioner.png')}height="100" width="100" align="center"/></td>                           
+      <td>IBM Automation Practitioner<img src={require('../images/Automation+Practitioner.png')}height="100" width="100" align="right"/></td>                           
       </tr>
       <tr>
-      <td>Data Science Foundations - Level 1<img src={require('../images/Data+Sci+Found+Level+1+-+CC+-+2019.png')}height="100" width="100" align="center"/></td>
+      <td>Data Science Foundations - Level 1<img src={require('../images/Data+Sci+Found+Level+1+-+CC+-+2019.png')}height="100" width="100" align="right"/></td>
       </tr>
       <tr>
-      <td>IGNITE Membership<img src={require('../images/IBM+IGNITE+Membership_281_29.png')}height="100" width="100" align="center"/></td>     
+      <td>IGNITE Membership<img src={require('../images/IBM+IGNITE+Membership_281_29.png')}height="100" width="100" align="right"/></td>     
       </tr>
       <tr>
-      <td>IBM Cloud Fundamentals<img src={require('../images/IBM+Cloud+Essentials+-+Knowledge+Badge.png')}height="100" width="100" align="center"/></td> 
+      <td>IBM Cloud Fundamentals<img src={require('../images/IBM+Cloud+Essentials+-+Knowledge+Badge.png')}height="100" width="100" align="right"/></td> 
       </tr>
       <tr>
-      <td>IBM Blockchain Essentials<img src={require('../images/Blockchain+Essentials.png')}height="100" width="100"align="center"/></td>      
+      <td>IBM Blockchain Essentials<img src={require('../images/Blockchain+Essentials.png')}height="100" width="100"align="right"/></td>      
       </tr>
     </table>
   
