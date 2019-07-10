@@ -15,9 +15,9 @@ const IndexPage = () => (
       <Image />
     </div>
   <table>
-<tr>        
-   <td> <Link to="/page-3"align="left">Go to page 3</Link> </td>
-    <td><Link to="/page-2" align="right">Go to page 2</Link></td>
+<tr>         
+  <td><Link to="/page-2" align="right">Go to page 2</Link></td>
+  <td> <Link to="/page-3"align="left">Go to page 3</Link> </td>
 </tr>
 </table>    
   </Layout>
