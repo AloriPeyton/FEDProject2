@@ -14,6 +14,14 @@ const IndexPage = () => (
     <div style={{width: `100%`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
+  <table>
+<tr>        
+   <td> <Link to="/page-3"align="right">Go to page 3</Link> </td>
+    <td><Link to="/page-2" align="left">Go to page 2</Link></td>
+</tr>
+</table>    
+
+
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
