@@ -23,7 +23,7 @@ const SecondPage = () => (
     <h2>Badges Earned</h2>
     <table>
       <tr>
-      <td>IBM Agile Explorer<img src={require('../images/AA-Badge-explorer-352.png')}height="100" width="100" align="center"/></td> 
+      <td>IBM Agile Explorer<br><img src={require('../images/AA-Badge-explorer-352.png')}height="100" width="100" align="center"/></td> 
       </tr>
       <tr>                                
       <td>IBM Automation Practitioner<img src={require('../images/Automation+Practitioner.png')}height="100" width="100" align="center"/></td>                           
