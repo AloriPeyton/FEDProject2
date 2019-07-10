@@ -43,8 +43,12 @@ const SecondPage = () => (
     </table>
   
     <p></p>
-    <Link to="/">Go back to the homepage</Link>
- <Link to="/page-3">Go to page 3</Link>
+<table>
+<tr>        
+   <td> <Link to="/"align="left">Go back to the homepage</Link> </td>
+    <td><Link to="/page-3" align="right">Go to page 3</Link></td>
+</tr>
+</table>    
   </Layout>
 )
 
