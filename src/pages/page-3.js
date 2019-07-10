@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const ThirdPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Page 3 Placeholder</h1>
