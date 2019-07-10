@@ -44,7 +44,8 @@ const ThirdPage = () => (
   
     <p></p>
     <Link to="/">Go back to the homepage</Link>
- <Link to="/page-3">Go to page 2</Link>
+
+ <Link to="/page-2" align="right">Go to page 2</Link>
   </Layout>
 )
 
