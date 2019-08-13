@@ -40,6 +40,12 @@ const SecondPage = () => (
       <tr>
       <td>IBM Blockchain Essentials<img src={require('../images/Blockchain+Essentials.png')}height="100" width="100"align="right"/></td>      
       </tr>
+      <tr>
+      <td>Enterprise Design Thinking Practitioner<img src={require('../images/Badges_v8-07+Practitioner.png')}height="100" width="100"align="right"/></td>      
+      </tr>
+      <tr>
+      <td>Cognitive Practitioner<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      </tr>
     </table>
   
     <p></p>
