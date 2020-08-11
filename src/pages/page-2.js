@@ -46,6 +46,18 @@ const SecondPage = () => (
       <tr>
       <td>Cognitive Practitioner<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
       </tr>
+      <tr>
+      <td>IBM Automation Essentials<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      </tr>
+      <tr>
+      <td>Security and Privacy by Design Foundations<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      </tr>
+      <tr>
+      <td>Travel and Transportation Industry Jumpstart<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      </tr>
+      <tr>
+      <td>IBM Automation Essentials<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      </tr>
     </table>
   
     <p></p>
