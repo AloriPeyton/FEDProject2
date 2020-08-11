@@ -47,16 +47,16 @@ const SecondPage = () => (
       <td>Cognitive Practitioner<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
       </tr>
       <tr>
-      <td>IBM Automation Essentials<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      <td>IBM Automation Essentials<img src={require('../images/ALC-Essentials-Badge-600x600-1.png')}height="100" width="100"align="right"/></td>      
       </tr>
       <tr>
-      <td>Security and Privacy by Design Foundations<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      <td>Security and Privacy by Design Foundations<img src={require('../images/Security-and-Privacy-by-Design.png')}height="100" width="100"align="right"/></td>      
       </tr>
       <tr>
-      <td>Travel and Transportation Industry Jumpstart<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      <td>Travel and Transportation Industry Jumpstart<img src={require('../images/industry_jumpstart_travel-trans_600.png')}height="100" width="100"align="right"/></td>      
       </tr>
       <tr>
-      <td>IBM Automation Essentials<img src={require('../images/Practitioner+Bright+Green+No+Date+copy.png')}height="100" width="100"align="right"/></td>      
+      <td>Combinatorial Test Design<img src={require('../images/IBM_IGNITE_CTD_281_29.png')}height="100" width="100"align="right"/></td>      
       </tr>
     </table>
   
