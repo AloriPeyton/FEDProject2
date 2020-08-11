@@ -59,7 +59,7 @@ const SecondPage = () => (
       <td>Combinatorial Test Design<img src={require('../images/IBM_IGNITE_CTD_281_29.png')}height="100" width="100"align="right"/></td>      
       </tr>
       <tr>
-        <td><img src={require('../images/The_IBM_Way_badge_Emblem.png')}height="100" width="100" align="right"/></td>
+        <td>The IBM Way<img src={require('../images/The_IBM_Way_badge_Emblem.png')}height="100" width="100" align="right"/></td>
       </tr>
     </table>
   
